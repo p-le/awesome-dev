@@ -19,6 +19,8 @@ Bookmark of pages, documents which are very userfull
 ### Back-End
 * NodeJS
   * http://nodeweekly.com
+  * [ESLint Security Plugin](https://github.com/nodesecurity/eslint-plugin-security)
+  * [ESLint Node Plugin](https://github.com/mysticatea/eslint-plugin-node)
 
 ***
 
