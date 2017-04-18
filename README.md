@@ -23,6 +23,7 @@ Bookmark of pages, documents which are very userfull
   * http://nodeweekly.com
   * [ESLint Security Plugin](https://github.com/nodesecurity/eslint-plugin-security)
   * [ESLint Node Plugin](https://github.com/mysticatea/eslint-plugin-node)
+  * [Best Practices](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
 
 ***
 
