@@ -4,16 +4,18 @@ Bookmark of pages, documents which are very userfull
 ### Front-End
 
 #### VueJS
-* Components
-  * VuetifyJs: https://vuetifyjs.com/
-  * KeenUI: https://josephuspaye.github.io/Keen-UI/#/ui-alert
+* Component UI
+  * [VuetifyJs](https://vuetifyjs.com/)
+  * [KeenUI](https://josephuspaye.github.io/Keen-UI/)
 * Complete API Cheatsheet: https://vuejs-tips.github.io/cheatsheet/
 
 #### React
 * Redux
-  * Redux-Saga: https://redux-saga.github.io/redux-saga/index.html
-  * Reselect: https://github.com/reactjs/reselect
-  
+  * [Redux-Saga](https://redux-saga.github.io/redux-saga/index.html)
+  * [Reselect](https://github.com/reactjs/reselect)
+* SSR
+  * [Next.js v2](https://zeit.co/blog/next)
+  * [MERN v2](http://mern.io/)
 ***
 
 ### Back-End
@@ -25,6 +27,8 @@ Bookmark of pages, documents which are very userfull
 ***
 
 ### DevOps
+* Docker
+  * [Best Practices](http://docs.projectatomic.io/container-best-practices)
 
 ***
 
