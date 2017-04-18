@@ -17,6 +17,8 @@ Bookmark of pages, documents which are very userfull
 ***
 
 ### Back-End
+* NodeJS
+  * http://nodeweekly.com
 
 ***
 
