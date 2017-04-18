@@ -23,3 +23,9 @@ Bookmark of pages, documents which are very userfull
 ***
 
 ### DevOps
+
+***
+
+### Others
+
+* [Best Practices RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
