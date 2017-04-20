@@ -16,6 +16,8 @@ Bookmark of pages, documents which are very userfull
 * SSR
   * [Next.js v2](https://zeit.co/blog/next)
   * [MERN v2](http://mern.io/)
+* Optimize
+  * [Best Practices 1](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 ***
 
 ### Back-End
