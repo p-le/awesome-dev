@@ -19,6 +19,8 @@ Bookmark of pages, documents which are very userfull
 * Optimize
   * [Best Practices 1](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
 ***
+#### CSS
+* [Cubic Beizer Animation Generator](http://cubic-bezier.com/#.17,.67,.83,.67)
 
 ### Back-End
 * NodeJS
