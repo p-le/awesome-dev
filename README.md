@@ -13,6 +13,7 @@ Bookmark of pages, documents which are very userfull
 * Redux
   * [Redux-Saga](https://redux-saga.github.io/redux-saga/index.html)
   * [Reselect](https://github.com/reactjs/reselect)
+  * [Create-react-app with Express backend](https://daveceddia.com/create-react-app-express-production/)
 * SSR
   * [Next.js v2](https://zeit.co/blog/next)
   * [MERN v2](http://mern.io/)
