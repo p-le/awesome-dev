@@ -30,6 +30,9 @@ Bookmark of pages, documents which are very userfull
   * [ESLint Node Plugin](https://github.com/mysticatea/eslint-plugin-node)
   * [Best Practices](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
 
+* Others
+  * [Mock REST API](http://jsonplaceholder.typicode.com/)
+
 ***
 
 ### DevOps
