@@ -23,6 +23,9 @@ Bookmark of pages, documents which are very userfull
 #### CSS
 * [Cubic Beizer Animation Generator](http://cubic-bezier.com/#.17,.67,.83,.67)
 
+#### Javascript
+* [Functional Programming Helpers Library](http://underscorejs.org/)
+
 ### Back-End
 * NodeJS
   * http://nodeweekly.com
