@@ -10,6 +10,8 @@ Bookmark of pages, documents which are very userfull
 * Complete API Cheatsheet: https://vuejs-tips.github.io/cheatsheet/
 
 #### React
+* Test
+  * [Best Practices](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12)
 * Redux
   * [Redux-Saga](https://redux-saga.github.io/redux-saga/index.html)
   * [Reselect](https://github.com/reactjs/reselect)
