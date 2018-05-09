@@ -67,4 +67,5 @@ Bookmark of pages, documents which are very userfull
 * [Quantitative Developer](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
 * [Programming Language Repositories Ratio on Githun](http://githut.info/)
 * [Cross Browser Javascript Desktop Notifications](https://github.com/Nickersoft/push.js)
+* [Adopt OKRs](https://info.gtmhub.com/hubfs/Guides/Gtmhub%20%7C%20Ultimate%20OKRs%20Playbook%202018.pdf?utm_campaign=Download%20Playbook&utm_source=quora&utm_medium=social)
 
