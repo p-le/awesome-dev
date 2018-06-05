@@ -69,4 +69,4 @@ Bookmark of pages, documents which are very userfull
 * [Cross Browser Javascript Desktop Notifications](https://github.com/Nickersoft/push.js)
 * [Adopt OKRs](https://info.gtmhub.com/hubfs/Guides/Gtmhub%20%7C%20Ultimate%20OKRs%20Playbook%202018.pdf?utm_campaign=Download%20Playbook&utm_source=quora&utm_medium=social)
 * [Placeholder](http://lorempixel.com/)
-
+* [Service Worker Best Practices](https://serviceworke.rs)
