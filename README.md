@@ -24,7 +24,13 @@ Bookmark of pages, documents which are very userfull
   * [MERN v2](http://mern.io/)
 * Optimize
   * [Best Practices 1](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
-
+* Static Site Generator
+  * [Gatsby](https://github.com/gatsbyjs/gatsby)
+  * [Gatsby Markdown Plugin](https://www.gatsbyjs.org/packages/gatsby-transformer-remark/?=gatsby-transformer-remark)
+  * [Gastbu Simple Blog](https://github.com/noahg/gatsby-starter-blog-no-styles/)
+* Static Site Deploy
+  * Github Page
+  * [Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/)
 ***
 
 #### CSS
