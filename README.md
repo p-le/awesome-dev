@@ -85,3 +85,4 @@ Bookmark of pages, documents which are very userfull
 
 * [Network Information API](https://deanhume.com/dynamic-resources-using-the-network-information-api-and-service-workers/)
 * [Intersection Observer](https://deanhume.com/lazy-loading-images-using-intersection-observer/)
+* [Debugging](https://medium.com/frontmen/art-of-debugging-with-chrome-devtools-ab7b5fd8e0b4)
