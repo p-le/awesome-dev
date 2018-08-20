@@ -79,3 +79,9 @@ Bookmark of pages, documents which are very userfull
 * [Service Worker Best Practices](https://serviceworke.rs)
 * [HEAD HTML](https://github.com/joshbuchea/HEAD)
 * [Webhint](https://webhint.io/)
+
+
+### Browser
+
+* [Network Information API](https://deanhume.com/dynamic-resources-using-the-network-information-api-and-service-workers/)
+* [Intersection Observer](https://deanhume.com/lazy-loading-images-using-intersection-observer/)
