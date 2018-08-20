@@ -50,6 +50,7 @@ Bookmark of pages, documents which are very userfull
   * [ESLint Security Plugin](https://github.com/nodesecurity/eslint-plugin-security)
   * [ESLint Node Plugin](https://github.com/mysticatea/eslint-plugin-node)
   * [Best Practices](https://www.sitepoint.com/node-js-best-practices-from-the-node-gurus/)
+  * [Best Practices](https://github.com/i0natan/nodebestpractices)
 
 * Others
   * [Mock REST API](http://jsonplaceholder.typicode.com/)
