@@ -78,3 +78,4 @@ Bookmark of pages, documents which are very userfull
 * [Placeholder](http://lorempixel.com/)
 * [Service Worker Best Practices](https://serviceworke.rs)
 * [HEAD HTML](https://github.com/joshbuchea/HEAD)
+* [Webhint](https://webhint.io/)
